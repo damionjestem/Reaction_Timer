@@ -1,0 +1,46 @@
+body {
+    background-color: #002020;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+    color: #F0FFFF;
+    font-size: 70px;
+    text-align: center; 
+}
+
+#description{
+
+    font-size: 30px;
+    text-align: center;
+    color: salmon;
+}
+
+h2{
+    color: #F0FFFF;
+}
+
+section p {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Styl tabeli*/
+#timesTable{
+    width: 90%;
+    background-color: darkcyan;
+
+}
+/*Styl komórek*/
+#timesTable th, td{
+    border: 1px solid white;
+    text-align: left;
+    padding: 15px;
+}
